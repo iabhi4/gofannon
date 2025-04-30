@@ -39,7 +39,7 @@ which might have some helpful pointers.
 
 Mainly note that we use Google Colab as the defacto runtime for our examples 
 because it removes issues revolving around different people's local environments
-are).
+are.
 
 ## Bugs, Infra improvements, other
 This would be 'other' types of issues. The nature of which precludes being able 
