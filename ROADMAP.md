@@ -7,6 +7,7 @@
 -->
 
 ## Complete ✅
+- [[infra] add readthedocs.yaml](https://github.com/The-AI-Alliance/gofannon/pull/303)
 - [Add automated Analytics collection](https://github.com/The-AI-Alliance/gofannon/pull/281)
 - [[Unit Test] Llamastack Framework](https://github.com/The-AI-Alliance/gofannon/pull/280)
 - [[Tool] file.ReadFile](https://github.com/The-AI-Alliance/gofannon/pull/270)
@@ -19,18 +20,16 @@
 - [[Example] Drop examples that contain complex_response](https://github.com/The-AI-Alliance/gofannon/pull/211)
 - [[NEW CORE CONTRIBUTOR] vedansh-5](https://github.com/The-AI-Alliance/gofannon/pull/203)
 - [Add documentation for contributing new agentic framework](https://github.com/The-AI-Alliance/gofannon/pull/201)
-- [[FRAMEWORK] Langflow](https://github.com/The-AI-Alliance/gofannon/pull/196)
-- [[Bug] Updating imports in Basic_Math.ipnb](https://github.com/The-AI-Alliance/gofannon/pull/184)
-- [[Bug] Example pip install points to old branch](https://github.com/The-AI-Alliance/gofannon/pull/183)
 
 ## Under Construction 🚧
-No items in progress
-
+- [[Framework Proposal] LlamaIndex](https://github.com/The-AI-Alliance/gofannon/issues/301)
+- [[Framework Proposal] The non-framework integration](https://github.com/The-AI-Alliance/gofannon/issues/300)
+- [[Function Proposal] Marginalia Search](https://github.com/The-AI-Alliance/gofannon/issues/295)
+- [[Bug] ./github/scripts/collect_metrics.py parquet output not consumable by AWS Athena](https://github.com/The-AI-Alliance/gofannon/issues/289)
 
 ## In the Roadmap 📅
+- [[Bug] PR Labeler: curl (3) URL rejected when adding first time contributor label](https://github.com/The-AI-Alliance/gofannon/issues/292)
 - [[DEMO] Langchain + smolagents tools into an MCP server](https://github.com/The-AI-Alliance/gofannon/issues/288)
-- [[Bug] Update Jekyll version to support Ruby 3.4+ environments](https://github.com/The-AI-Alliance/gofannon/issues/285)
-- [[Bug] Update release notes to call out tools and frameworks](https://github.com/The-AI-Alliance/gofannon/issues/274)
 - [Typo in Quickstart](https://github.com/The-AI-Alliance/gofannon/issues/256)
 - [Typo in File Name for Addition Documentation](https://github.com/The-AI-Alliance/gofannon/issues/255)
 - [Spelling Error in Exponents Documentation](https://github.com/The-AI-Alliance/gofannon/issues/254)
